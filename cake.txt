@@ -1,2 +1,4 @@
 The Cake Is A Lie
+
 The first number multiplied by 2
+Print difference
